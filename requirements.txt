@@ -18,7 +18,7 @@ plotly>=5.17.0
 networkx>=2.8.0
 
 # Recommendation Systems (para Surprise si se usa)
-scikit-surprise>=1.1.3
+# scikit-surprise>=1.1.3
 
 # Web App
 streamlit>=1.25.0
