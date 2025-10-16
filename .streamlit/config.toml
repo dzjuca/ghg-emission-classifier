@@ -1,0 +1,40 @@
+# =============================================================================
+# CONFIGURACIÓN DE STREAMLIT
+# =============================================================================
+# Crea esta carpeta y archivo: .streamlit/config.toml
+# =============================================================================
+
+[theme]
+# Tema personalizado para la aplicación
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+# Configuración del servidor
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+# Configuración del navegador
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+# Configuración de ejecución
+magicEnabled = true
+fastReruns = true
+
+[client]
+# Configuración del cliente
+showErrorDetails = true
+toolbarMode = "auto"
+
+[logger]
+# Nivel de logging
+level = "info"

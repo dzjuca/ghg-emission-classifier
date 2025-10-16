@@ -1,0 +1,85 @@
+2017 NAICS Code,2017 NAICS Title,GHG,Unit,Supply Chain Emission Factors without Margins,Margins of Supply Chain Emission Factors,Supply Chain Emission Factors with Margins,Reference USEEIO Code
+111130,Dry Pea and Bean Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.809,0.04,0.848,1111B0
+111140,Wheat Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.809,0.04,0.848,1111B0
+111150,Corn Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.809,0.04,0.848,1111B0
+111160,Rice Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.809,0.04,0.848,1111B0
+111191,Oilseed and Grain Combination Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.809,0.04,0.848,1111B0
+111199,All Other Grain Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.809,0.04,0.848,1111B0
+111910,Tobacco Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+111920,Cotton Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+111930,Sugarcane Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+111940,Hay Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+111991,Sugar Beet Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+111992,Peanut Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+111998,All Other Miscellaneous Crop Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",0.703,0.037,0.74,111900
+112111,Beef Cattle Ranching and Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",2.847,0.045,2.893,1121A0
+112112,Cattle Feedlots,All GHGs,"kg CO2e/2022 USD, purchaser price",2.847,0.045,2.893,1121A0
+112120,Dairy Cattle and Milk Production,All GHGs,"kg CO2e/2022 USD, purchaser price",1.682,0.042,1.724,112120
+112130,Dual-Purpose Cattle Ranching and Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",2.847,0.045,2.893,1121A0
+112210,Hog and Pig Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112410,Sheep Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112420,Goat Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112511,Finfish Farming and Fish Hatcheries,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112512,Shellfish Farming,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112519,Other Aquaculture,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112910,Apiculture,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112920,Horses and Other Equine Production,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112930,Fur-Bearing Animal and Rabbit Production,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+112990,All Other Animal Production,All GHGs,"kg CO2e/2022 USD, purchaser price",1.077,0.051,1.128,112A00
+212111,Bituminous Coal and Lignite Surface Mining,All GHGs,"kg CO2e/2022 USD, purchaser price",0.747,0.094,0.841,212100
+212112,Bituminous Coal Underground Mining,All GHGs,"kg CO2e/2022 USD, purchaser price",0.747,0.094,0.841,212100
+212113,Anthracite Mining,All GHGs,"kg CO2e/2022 USD, purchaser price",0.747,0.094,0.841,212100
+311211,Flour Milling,All GHGs,"kg CO2e/2022 USD, purchaser price",0.732,0.037,0.769,311210
+311212,Rice Milling,All GHGs,"kg CO2e/2022 USD, purchaser price",0.732,0.037,0.769,311210
+311213,Malt Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.732,0.037,0.769,311210
+311221,Wet Corn Milling,All GHGs,"kg CO2e/2022 USD, purchaser price",0.956,0.037,0.993,311221
+311511,Fluid Milk Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.766,0.037,0.803,31151A
+311512,Creamery Butter Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.766,0.037,0.803,31151A
+311513,Cheese Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.936,0.034,0.969,311513
+311611,Animal (except Poultry) Slaughtering,All GHGs,"kg CO2e/2022 USD, purchaser price",1.086,0.033,1.12,31161A
+311612,Meat Processed from Carcasses,All GHGs,"kg CO2e/2022 USD, purchaser price",1.086,0.033,1.12,31161A
+311613,Rendering and Meat Byproduct Processing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.086,0.033,1.12,31161A
+322110,Pulp Mills,All GHGs,"kg CO2e/2022 USD, purchaser price",0.977,0.025,1.002,322110
+322130,Paperboard Mills,All GHGs,"kg CO2e/2022 USD, purchaser price",0.789,0.04,0.829,322130
+324121,Asphalt Paving Mixture and Block Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.093,0.028,1.121,324121
+325110,Petrochemical Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.794,0.016,0.811,325110
+325120,Industrial Gas Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.163,0.048,1.211,325120
+325180,Other Basic Inorganic Chemical Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.974,0.036,1.01,325180
+325193,Ethyl Alcohol Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.166,0.018,1.184,325190
+325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",All GHGs,"kg CO2e/2022 USD, purchaser price",1.166,0.018,1.184,325190
+325199,All Other Basic Organic Chemical Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.166,0.018,1.184,325190
+325211,Plastics Material and Resin Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.022,0.024,1.045,325211
+325212,Synthetic Rubber Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.886,0.016,0.902,3252A0
+325220,Artificial and Synthetic Fibers and Filaments Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.886,0.016,0.902,3252A0
+325311,Nitrogenous Fertilizer Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.114,0.023,1.137,325310
+325312,Phosphatic Fertilizer Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.114,0.023,1.137,325310
+325314,Fertilizer (Mixing Only) Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.114,0.023,1.137,325310
+327310,Cement Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",3.846,0.078,3.924,327310
+327410,Lime Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.56,0.063,1.623,327400
+327420,Gypsum Product Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",1.56,0.063,1.623,327400
+327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.719,0.068,0.787,327999
+331110,Iron and Steel Mills and Ferroalloy Manufacturing,All GHGs,"kg CO2e/2022 USD, purchaser price",0.769,0.018,0.787,331110
+331313,Alumina Refining and Primary Aluminum Production,All GHGs,"kg CO2e/2022 USD, purchaser price",1.003,0.014,1.018,331313
+331315,"Aluminum Sheet, Plate, and Foil Manufacturing",All GHGs,"kg CO2e/2022 USD, purchaser price",0.7,0.021,0.721,33131B
+331318,"Other Aluminum Rolling, Drawing, and Extruding",All GHGs,"kg CO2e/2022 USD, purchaser price",0.7,0.021,0.721,33131B
+483111,Deep Sea Freight Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",0.816,0.0,0.816,483000
+483112,Deep Sea Passenger Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",0.816,0.0,0.816,483000
+483113,Coastal and Great Lakes Freight Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",0.816,0.0,0.816,483000
+483114,Coastal and Great Lakes Passenger Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",0.816,0.0,0.816,483000
+483211,Inland Water Freight Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",0.816,0.0,0.816,483000
+483212,Inland Water Passenger Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",0.816,0.0,0.816,483000
+486110,Pipeline Transportation of Crude Oil,All GHGs,"kg CO2e/2022 USD, purchaser price",1.619,0.0,1.619,486000
+486210,Pipeline Transportation of Natural Gas,All GHGs,"kg CO2e/2022 USD, purchaser price",1.619,0.0,1.619,486000
+486910,Pipeline Transportation of Refined Petroleum Products,All GHGs,"kg CO2e/2022 USD, purchaser price",1.619,0.0,1.619,486000
+486990,All Other Pipeline Transportation,All GHGs,"kg CO2e/2022 USD, purchaser price",1.619,0.0,1.619,486000
+562111,Solid Waste Collection,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562112,Hazardous Waste Collection,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562119,Other Waste Collection,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562211,Hazardous Waste Treatment and Disposal,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562212,Solid Waste Landfill,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562213,Solid Waste Combustors and Incinerators,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562219,Other Nonhazardous Waste Treatment and Disposal,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562910,Remediation Services,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562920,Materials Recovery Facilities,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562991,Septic Tank and Related Services,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
+562998,All Other Miscellaneous Waste Management Services,All GHGs,"kg CO2e/2022 USD, purchaser price",0.988,0.0,0.988,562000
